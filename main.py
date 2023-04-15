@@ -11,5 +11,4 @@ def show_webcam(mirror=False):
         break
 
 cv2.destroyAllWindows()
-
 show_webcam(mirror=True)
